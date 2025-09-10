@@ -1,0 +1,8 @@
+{
+  "name": "Sermon Scripture Projector",
+  "description": "An AI-powered application that listens to live or pre-recorded sermons, detects biblical references in real-time, and displays the corresponding scriptures in a beautiful, presentation-ready format for church screens.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
